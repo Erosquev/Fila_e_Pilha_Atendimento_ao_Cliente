@@ -26,12 +26,12 @@ Este projeto em Java simula um sistema de atendimento ao cliente utilizando estr
 ## Como usar
 
 1. Compile todos os arquivos `.java`:
-```bash
+
 javac *.java
 Execute o programa:
 
 java org.example.Main
-Siga o menu para adicionar clientes, atender, visualizar fila/histórico e remover solicitações.
+Siga o menu para adicionar clientes, atender, visualizar fila/histórico e remover solicitações. 
 
 Observações
 O sistema é totalmente interativo pelo terminal.
